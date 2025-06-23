@@ -1,0 +1,62 @@
+/* General Page Setup */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 496px;
+    height: 279px;
+}
+
+/* Main Heading */
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+/* Intro Paragraph */
+.intro {
+    text-align: center;
+    color: #000;
+    font-size: 1.1em;
+}
+
+.intro b {
+    color: blueviolet;
+}
+
+/* Link Section */
+.link-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.link-section a {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.link-section a:hover {
+    text-decoration: underline;
+}
+
+/* Highlight Box */
+.highlight-box {
+    text-align: center;
+    background-color: blue;
+    color: aqua;
+    padding: 10px;
+    font-style: italic;
+    font-size: 1em;
+    margin-top: 20px;
+}

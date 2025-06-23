@@ -1,0 +1,96 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdfdfd;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+img {
+    width: 496px;
+    height: 279px;
+}
+
+/* Center alignment */
+.center {
+    text-align: center;
+}
+
+/* Headers and important texts */
+h1, h2, h3, h4, h5, h6, b {
+    font-weight: bold;
+}
+
+.radhe {
+    color: blue;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.subheading {
+    color: red;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.information {
+    color: blueviolet;
+    text-align: center;
+    padding: 10px;
+}
+
+.info-section {
+    color: brown;
+    text-align: center;
+}
+
+/* Links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Video Section */
+.video-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Feedback Section */
+textarea {
+    width: 80%;
+    max-width: 600px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 1em;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f0f0f0;
+}
+
+footer pre {
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+/* Share Section */
+.share-message {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.share-link {
+    text-align: center;
+    margin-bottom: 30px;
+}
